@@ -1,2 +1,2 @@
 # git-curso
-Ejercicio introductorio de Git y Githup
+Ejercicio introductorio de Git y Github
